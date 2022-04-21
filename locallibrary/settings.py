@@ -86,7 +86,7 @@ DATABASES = {
         'NAME': 'local_library',
         'USER': 'local_library',
         'PASSWORD': 'asdf1234',
-        'HOST': 'locallibrary-dev.crmzivx6ztt5.ap-northeast-2.rds.amazonaws.com',
+        'HOST': 'locallibrary-prod.crmzivx6ztt5.ap-northeast-2.rds.amazonaws.com',
         'PORT': '5432',
     }
 }
